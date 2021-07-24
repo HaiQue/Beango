@@ -1,5 +1,5 @@
 # Beango
-Coffe shop website example project 
+Coffee shop website example project 
 
 # Starting the project
 1. Clone repository
